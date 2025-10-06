@@ -1,8 +1,4 @@
 # -MITM-Analysis-Lab
- MITM Analysis Lab
- # MITM Təhlil Labı
-
-# MITM Analysis Lab
 
 This repository contains my hands-on lab work for Man-in-the-Middle (MITM) analysis.  
 All experiments were conducted in an isolated lab environment (VirtualBox/VMs) with explicit permission.  
